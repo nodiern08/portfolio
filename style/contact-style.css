@@ -1,0 +1,30 @@
+body {
+    background-color: white;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container {
+    background-color: rgb(233, 239, 252);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+    box-shadow: 5px 5px 1em darkgray;
+}
+
+.email {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+p {
+    font-size:x-large;
+    font-weight: 600;
+}
